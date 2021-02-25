@@ -15,8 +15,7 @@ class FruitContainer extends Component {
         console.log(this.state.fruitsToDisplay);
         console.log('---- props -----');
         console.log(this.props.fruits);
-
-
+        
         return (
             <div>
                 <List yoFruits={this.state.fruitsToDisplay}/>

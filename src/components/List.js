@@ -7,10 +7,9 @@ class List extends Component{
     }
     render(){
         const fruitArray = this.props.yoFruits.map((fruitItem, index) => {
-            return <li className="box" key={index}>{fruitItem}</li>
+            return <li className="box" >{fruitItem}</li>
         })
         
-     
         return(
             <div>
                 <ul>
