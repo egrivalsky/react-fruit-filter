@@ -104,6 +104,10 @@ export default Input;
 ![key warning](https://media.git.generalassemb.ly/user/24692/files/ec507f00-7766-11eb-9fee-09f5fc64e588)
 
 # Fruit Filter Part 2
+![filter](https://media.git.generalassemb.ly/user/24692/files/b36fd480-777d-11eb-8c43-b6e39a02d77f)
+
+## CONSOLE
+![console](https://media.git.generalassemb.ly/user/24692/files/c387b400-777d-11eb-8732-8e3711dfbbac)
 
 ## FruitContainer 
 ```js
