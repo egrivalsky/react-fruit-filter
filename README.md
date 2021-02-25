@@ -100,5 +100,5 @@ class Input extends Component {
 export default Input;
 ```
 
-⚠️ What happens if you don't use the `key` attributes in your mapped array
+### ⚠️ What happens if you don't use the `key` attribute in your mapped Array ⚠️
 ![key warning](https://media.git.generalassemb.ly/user/24692/files/ec507f00-7766-11eb-9fee-09f5fc64e588)
